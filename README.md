@@ -1,6 +1,8 @@
 ## Hello 👋
-I am **Self taught a `Full Developer.`**
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=CBDEF7&width=435&lines=Design,+Develop,+Debug,+and+Deploy)](https://git.io/typing-svg)
+
+I am **Self taught a `Full Stack Developer.`**
 - 🗃️ Working on multiple frontend and backend projects utilizing the **`MERN`** tech stack.
 - 🍃 Passionate about creating efficient, scalable, and user-friendly web applications.
 - 🧑‍💻 Currently developing a **social networking system**.
