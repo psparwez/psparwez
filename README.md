@@ -131,6 +131,42 @@ Feel free to reach out if you’d like to connect or discuss new opportunities! 
 <br>
 
 
+<a href="http://github.com/psparwez/psparwez">
+		<img height="20" src="https://img.shields.io/badge/Portfolio-8957e5?style=flat&logo=awesome-lists&logoColor=white" alt="Portfolio Badge"/>
+	</a>
+	<a href="https://linkedin.com/">
+		<img  height="20" src="https://img.shields.io/badge/LinkedIn-1f6feb?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+	</a>
+	<a href="https://mail.google.com/">
+		<img height="20" src="https://img.shields.io/badge/Contact-238636?style=flat&logo=gmail&logoColor=white" alt="Twitter Badge"/>
+	</a>
+ 
+<br>
 
-[![Contact](https://img.shields.io/badge/Contact-175fd4?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/psparwez/psparwez/)
-[![Instagram](https://img.shields.io/badge/Instagram-c71849?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+
+<!-- [![Contact](https://img.shields.io/badge/Contact-175fd4?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/psparwez/psparwez/) -->
+ <!-- [![Instagram](https://img.shields.io/badge/Instagram-c71849?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/) -->
+
+<br>
+<br>
+
+
+<div class="d-block">
+
+  
+  <a href="https://github.com/psparwez" title="Github Readme Streak Stats"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=psparwez&count_private=true&show_icons=true&theme=github_dark&border_color=f5fbff21&border_radius=10&hide=stars&line_height=28&rank_icon=github&cache_seconds=1800&custom_title=Ps%20Parwez%20GitHub%20Stats" alt="psparwez" align=left  width=48.7% /></a>
+  <a href="https://github.com/psparwez" title="GitHub Readme Stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=psparwez&theme=github-dark-blue&border=f5fbff21&border_radius=10&stroke=f5fbff21&date_format=j%20M%5B%20Y%5D" alt="psparwez" width=48.7% /></a>
+</div>
+<a href="https://github.com/psparwez" title="Github Readme Activity Stats"><img src="https://github-readme-activity-graph.vercel.app/graph?username=psparwez&theme=github-dark&radius=10&border=f5fbff21&hide_border=true&hide_title=true" alt="fabianocouto" width=99.8% /></a>
+
+<br>
+<br>
+<br>
+---
+
+
+
+
+
+
+
