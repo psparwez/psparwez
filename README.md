@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=CBDEF7&width=435&lines=Design,+Develop,+Debug,+and+Deploy)](https://git.io/typing-svg)
 
-I am **Self taught a `Full Stack Developer.`**
+I am a **self-taught and passionate `Full Stack Developer.`**
 - 🗃️ Working on multiple frontend and backend projects utilizing the **`MERN`** tech stack.
 - 🍃 Passionate about creating efficient, scalable, and user-friendly web applications.
 - 🧑‍💻 Currently developing a **social networking system**.
@@ -151,7 +151,7 @@ Feel free to reach out if you’d like to connect or discuss new opportunities! 
 <br>
 
 
-<div class="d-block">
+<!-- <div class="d-block">
 
   
   <a href="https://github.com/psparwez" title="Github Readme Streak Stats"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=psparwez&count_private=true&show_icons=true&theme=github_dark&border_color=f5fbff21&border_radius=10&hide=stars&line_height=28&rank_icon=github&cache_seconds=1800&custom_title=Ps%20Parwez%20GitHub%20Stats" alt="psparwez" align=left  width=48.7% /></a>
@@ -162,8 +162,7 @@ Feel free to reach out if you’d like to connect or discuss new opportunities! 
 <br>
 <br>
 <br>
-
-
+-->
 
 
 
