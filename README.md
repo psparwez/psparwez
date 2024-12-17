@@ -114,7 +114,7 @@ I'm passionate about creating efficient, scalable solutions, I’m committed to 
 - **E-commerce Platform:** Full-featured online store with product listings, user authentication, and payment gateway integration.
 - **Real-time Chat App:** Chat application with WebSocket integration, enabling real-time communication.
 - **Task Management Tool:** Built a productivity app for task tracking with a clean, user-friendly UI.
--  [**`Explore more projects on my GitHub?`**](https://www.github.com/psparwez)
+-  [**`Explore more projects on my GitHub?`**](https://github.com/psparwez?tab=repositories)
 
 
 ## 🚀 Goals
