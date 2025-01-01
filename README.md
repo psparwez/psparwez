@@ -134,7 +134,7 @@ Feel free to reach out if you’d like to connect or discuss new opportunities! 
 <a href="http://github.com/psparwez/psparwez">
 		<img height="20" src="https://img.shields.io/badge/Portfolio-8957e5?style=flat&logo=awesome-lists&logoColor=white" alt="Portfolio Badge"/>
 	</a>
-	<a href="https://linkedin.com/">
+	<a href="https://linkedin.com/in/psparwez" target="_blank">
 		<img  height="20" src="https://img.shields.io/badge/LinkedIn-1f6feb?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	</a>
 	<a href="https://mail.google.com/">
