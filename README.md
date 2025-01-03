@@ -5,7 +5,7 @@
 I am a **self-taught and passionate `Full Stack Developer.`**
 - 🗃️ Working on multiple frontend and backend projects utilizing the **`MERN`** tech stack.
 - 🍃 Passionate about creating efficient, scalable, and user-friendly web applications.
-- 🧑‍💻 Currently developing a **CLI tool to automate workflows**.
+- 🧑‍💻 Currently developing a **AI SASS Projects **.
 
 
 <br>
